@@ -1,0 +1,34 @@
+body {
+
+  background-image: url("/images/GoogleHP.jpg");
+  background-size: cover;
+
+  /*background-image: url("GoogleHP.jpeg");
+  background-color: #cccccc;
+  background-size: auto;*/
+}
+#one {
+  margin-left: 410px;
+  margin-top: 600px;
+  float: left;
+}
+#two {
+  margin-right: 680px;
+  margin-top: 520px;
+  float: center;
+}
+#three {
+  float: right;
+  margin-right: 500px;
+  /*margin-bottom: 50px;*/
+}
+
+
+
+
+
+/*#three {
+  float: inline;
+  margin-bottom: 560px;
+  margin-right: 500px;
+/*margin-left: 10px;*/
